@@ -1,10 +1,12 @@
 <p align="center">
   <a href="https://asopi.tech">
-    <img src="https://avatars.githubusercontent.com/u/122283370?s=200" alt="asopitech" width="120">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/brand/lockup-asopitech-dark-800.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/brand/lockup-asopitech-light-800.png">
+      <img alt="asopitech / あそぴてっく" src="assets/brand/lockup-asopitech-light-800.png" width="420">
+    </picture>
   </a>
 </p>
-
-<h1 align="center">あそぴてっく / asopitech 👋</h1>
 
 <p align="center">
   <b>分散システム・データベース・プログラミング言語・AI 検索基盤にまたがる OSS エコシステムを、個人で設計・実装しています。</b><br>
